@@ -1,1 +1,2 @@
 # odin-recipes
+This is my first project as part of the odinproject curriculum. It is a website that will contain some recipes for some simple dishes that will have ingredients with them. I will be using HTML for this project. 
